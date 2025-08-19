@@ -1,0 +1,20 @@
+{
+    "model": "NousResearch/Nous-Puffin-70B",
+    "task_id": "d3073ebe-d049-41be-9d4a-4568bb32810b",
+    "task_type": "InstructTextTask",
+    "hours_to_complete": 4.0,
+    "expected_repo_name": "d3073ebe-d049-41be-9d4a-4568bb32810b",
+    "dataset": "https://gradients.s3.eu-north-1.amazonaws.com/4cb546c3c0de5bb0_train_data.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVZOOA7SA4UOFLPI%2F20250813%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20250813T210540Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c60197053dc3f4933efe81fa401da2764e1b28ff1f26a3f2c13bb9c10dd1aed2",
+    "dataset_type": {
+        "system_prompt": "",
+        "system_format": "{system}",
+        "field_system": null,
+        "field_instruction": "instruct",
+        "field_input": null,
+        "field_output": "output",
+        "format": null,
+        "no_input_format": null,
+        "field": null
+    },
+    "file_format": "s3"
+}

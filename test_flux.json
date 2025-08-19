@@ -1,0 +1,8 @@
+{
+    "model": "dataautogpt3/FLUX-MonochromeManga",
+    "task_id": "9111435c-df5d-48bc-8075-5185ee76ca67",
+    "hours_to_complete": "1",
+    "expected_repo_name": "9111435c-df5d-48bc-8075-5185ee76ca67",
+    "dataset_zip": "https://rnerd5.omega.web.id/95ec2141ed3269df_train_data.zip",
+    "model_type": "flux"
+}

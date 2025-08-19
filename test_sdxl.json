@@ -1,0 +1,8 @@
+{
+    "model": "John6666/hassaku-xl-illustrious-v10style-sdxl",
+    "task_id": "2d25bb73-bb47-4ee0-a3a2-09dad7c4aca8",
+    "hours_to_complete": "1",
+    "expected_repo_name": "2d25bb73-bb47-4ee0-a3a2-09dad7c4aca8",
+    "dataset_zip": "https://rnerd5.omega.web.id/5787146b62daf276_train_data.zip",
+    "model_type": "sdxl"
+}

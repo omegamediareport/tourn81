@@ -1,0 +1,20 @@
+{
+    "model": "NousResearch/Yarn-Solar-10b-64k",
+    "task_id": "6100052b-d613-4b4a-b9a9-9dc148be8de9",
+    "task_type": "InstructTextTask",
+    "hours_to_complete": 4.0,
+    "expected_repo_name": "f18463c2-243a-4b60-8561-6c4ad58e6361",
+    "dataset": "https://gradients.s3.eu-north-1.amazonaws.com/593be1521fb643d9_train_data.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVZOOA7SA4UOFLPI%2F20250815%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20250815T001124Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b7a10975ed67b3193ba54a6f84a9aaa7c8b281f4acbdb2c3985836cc4a87fc33",
+    "dataset_type": {
+        "system_prompt": "",
+        "system_format": "{system}",
+        "field_system": null,
+        "field_instruction": "instruct",
+        "field_input": null,
+        "field_output": "output",
+        "format": null,
+        "no_input_format": null,
+        "field": null
+    },
+    "file_format": "s3"
+}
